@@ -1,0 +1,14 @@
+﻿.tableStyle{
+	display: table;
+	width: auto;
+}
+
+.tableHeaderRow{
+	display: table-row;
+	width: auto;
+	clear: both;
+}
+
+.tableDataCell{
+	display: table-column;
+}
